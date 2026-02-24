@@ -1,13 +1,13 @@
-🚚 Delivery Agents Performance Dashboard (Power BI)
-📌 Project Overview
+#🚚 Delivery Agents Performance Dashboard (Power BI)
+##📌 Project Overview
 
 This project presents an interactive Power BI dashboard designed to analyze and compare delivery performance across multiple delivery platforms, including Blinkit, JioMart, Swiggy Instamart, and Zepto. The dashboard transforms raw operational and customer feedback data into meaningful insights that support data-driven decision-making.
 
 The report focuses on evaluating delivery efficiency, customer satisfaction, feedback trends, pricing impact, and location-based performance through dynamic visualizations and slicers.
 
-🎯 Objectives
+##🎯 Objectives
 
-**The main objectives of this dashboard are:
+The main objectives of this dashboard are:
 
 Analyze overall delivery performance using key performance indicators (KPIs)
 
@@ -25,7 +25,7 @@ Enable interactive filtering using slicers for flexible analysis
 
 Provide dual-theme dashboards for improved usability and presentation
 
-📊 Key Features
+##📊 Key Features
 
 KPI Cards (Total Deliveries, Avg Delivery Time, Avg Rating, Positive Feedback %)
 
@@ -43,7 +43,7 @@ Dual dashboard themes (Dark & Light)
 
 Clean and user-friendly dashboard design
 
-🛠 Tools and Technologies Used
+##🛠 Tools and Technologies Used
 
 Power BI Desktop
 
@@ -57,7 +57,7 @@ Geo-Visualization
 
 Interactive Dashboard Design
 
-📂 Dataset Description
+##📂 Dataset Description
 
 The dataset includes the following attributes:
 
@@ -79,7 +79,7 @@ Product Availability
 
 Location
 
-📈 Key Insights Derived
+##📈 Key Insights Derived
 
 Delivery time has a direct impact on customer satisfaction
 
@@ -93,7 +93,7 @@ Customer satisfaction varies across different locations
 
 Interactive slicers allow detailed performance analysis
 
-🎨 Dashboard Themes
+##🎨 Dashboard Themes
 
 This project includes two dashboard themes:
 
